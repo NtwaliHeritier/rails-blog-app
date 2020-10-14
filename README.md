@@ -1,24 +1,32 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Rails Blog App
 
-Things you may want to cover:
+> This is a rails blog app completed using Rails
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby
+- Ruby on Rails
+- Paperclip
+- Mini magick
 
-* Configuration
+## Authors
 
-* Database creation
+👤 **Ntwali Heritier**
 
-* Database initialization
+- Github: [@githubhandle](https://github.com/NtwaliHeritier)
+- Twitter: [@twitterhandle](https://twitter.com/NtwaliHeritier)
+- Linkedin: [linkedin](https://linkedin.com/in/ntwali-heritier-9950001a2)
 
-* How to run the test suite
+## Show your support
 
-* Services (job queues, cache servers, search engines, etc.)
+Give a ⭐️ if you like this project!
 
-* Deployment instructions
+## Acknowledgments
+- Inspiration
+- etc
 
-* ...
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
